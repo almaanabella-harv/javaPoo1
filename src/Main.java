@@ -149,6 +149,8 @@ public class Main {
 //        System.out.println(" ");
 //        System.out.print("\nCantidad de camiones que cargaron té: " + camionesDeTe);
 
-        
+        System.out.println("Acá va el punto 5: ");
+
+
     }
 }
