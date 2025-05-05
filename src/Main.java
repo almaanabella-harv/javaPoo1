@@ -151,6 +151,6 @@ public class Main {
 
         System.out.println("Acá va el punto 5: ");
 
-
+        System.out.println("Punto 6.");
     }
 }
